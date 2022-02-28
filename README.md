@@ -1,8 +1,8 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Júnior Dering</h1>
-<h3 align="center">Every problem can be solved using logic!</h3>
 
-- 🌱 I’m currently learning **FullStack Developer**
+<h1>Hi 👋, I'm Júnior Dering</h1>
+<h3>Every problem can be solved using logic!</h3>
+
+I’m currently learning **FullStack Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
