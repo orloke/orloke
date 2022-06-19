@@ -2,7 +2,7 @@
 <h1>Hi 👋, I'm Júnior Dering</h1>
 <h3>Every problem can be solved using logic!</h3>
 
-I’m currently learning **FullStack Developer**
+I’m currently learning **Front End Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
